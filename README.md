@@ -9,11 +9,10 @@
 
 ## 🎯 Descripción
 
-**ReconMaster** es una herramienta de reconocimiento automatizado desarrollada para pentesting y preparación de la certificación eJPTv2. Automatiza las fases de reconocimiento más tediosas, permitiendo a los pentesters enfocarse en la explotación.
+**ReconMaster** es una herramienta de reconocimiento automatizado desarrollada para pentesting. Automatiza las fases de reconocimiento más tediosas, permitiendo a los pentesters enfocarse en la explotación.
 
 **Desarrollada por:** Daniel Albarrán Acosta  
-**LinkedIn:** [linkedin.com/in/dalbaco/](https://linkedin.com/in/dalbaco/)  
-**Objetivo:** Certificación eJPTv2 y primera posición en ciberseguridad  
+**LinkedIn:** [linkedin.com/in/dalbaco/](https://linkedin.com/in/dalbaco/)   
 
 ## 🚀 Estado Actual (Semana 1 - En Desarrollo)
 
@@ -124,5 +123,4 @@ Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 <div align="center">
   <i>Desarrollado con ❤️ para la comunidad de ciberseguridad</i><br>
-  <i>Preparación eJPTv2 | Portfolio Project 2025</i>
 </div>
